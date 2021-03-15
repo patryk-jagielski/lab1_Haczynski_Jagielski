@@ -1,4 +1,3 @@
-class author {
-    string imie = "Patryk";
-    string nazwisko = "Jagielski";
-        }
+class Dev1 {
+    String author = "Patryk Jagielski";
+}

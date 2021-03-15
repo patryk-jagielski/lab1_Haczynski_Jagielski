@@ -1,4 +1,4 @@
-class author{
-    String imie = "Karol";
-    String nazwisko = "Haczynski";
+class Dev2{
+    String author = "Karol Haczynski";
+
 }
